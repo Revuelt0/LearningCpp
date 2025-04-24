@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Vývoj\C++\Static\Static\Main.cpp(9,16): error C2597: illegal reference to non-static member 'Entity::x'
+      C:\Vývoj\C++\Static\Static\Main.cpp(5,6):
+      see declaration of 'Entity::x'
+      C:\Vývoj\C++\Static\Static\Main.cpp(9,16):
+      the template instantiation context (the oldest one first) is
+          C:\Vývoj\C++\Static\Static\Main.cpp(9,8):
+          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
+  
