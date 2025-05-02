@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6bdfbf5f-dfaf-4899-96d5-68ebc9eca0c2}</ProjectGuid>
-    <RootNamespace>MultidimensionalArrays</RootNamespace>
+    <ProjectGuid>{6ecefe6d-4903-42d9-949d-21fdc6445120}</ProjectGuid>
+    <RootNamespace>Sorting</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
